@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Bienvenido a [Dingo Labs](https://dingolabs.com/)
 
-## Getting Started
+## Instalación
 
-First, run the development server:
+- Clonar el repositorio
+- Instalar dependencias
+- Iniciar el proyecto
+
+### Clonar el repositorio
+
+Clonar el repositorio en tu computadora local.
+
+```bash
+git clone https://github.com/dingo-labs/landing-page.git
+```
+
+### Instalar dependencias
+
+Instalar las dependencias necesarias para el proyecto.
+
+```bash
+npm install
+```
+
+### Iniciar el proyecto
+
+Iniciar el proyecto en modo desarrollo.
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abre el navegador y ve a `http://localhost:3000`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Contribuir
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Si deseas contribuir al proyecto, puedes hacerlo de varias maneras:
 
-## Learn More
+- Reportando errores
+- Mejorando la documentación
+- Agregando nuevas funcionalidades
 
-To learn more about Next.js, take a look at the following resources:
+Para hacer esto, sigue los siguientes pasos:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Forkea el repositorio
+2. Crea una nueva rama para tus cambios (`git checkout -b feature/mi-cambio`)
+3. Hacer los cambios necesarios
+4. Commitear los cambios (`git commit -m 'Añadido mi cambio'`)
+5. Push a la rama (`git push origin feature/mi-cambio`)
+6. Abre un Pull Request
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Recuerda que siempre es bueno revisar el código antes de hacer cambios.
 
-## Deploy on Vercel
+## Licencia
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Este proyecto está licenciado bajo la licencia MIT. Puedes encontrar más información sobre ella en el archivo [LICENSE](LICENSE).
