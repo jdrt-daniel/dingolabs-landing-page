@@ -1,4 +1,4 @@
-## Bienvenido a [Dingo Labs](https://dingolabs.com/)
+## Bienvenido a [Dingo Labs](https://www.danielrafael.dev/)
 
 ## Instalación
 
@@ -11,7 +11,7 @@
 Clonar el repositorio en tu computadora local.
 
 ```bash
-git clone https://github.com/dingo-labs/landing-page.git
+git clone https://github.com/jdrt-daniel/dingolabs-landing-page.git
 ```
 
 ### Instalar dependencias
